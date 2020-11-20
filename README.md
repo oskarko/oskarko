@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Full apps:
-  - **The Twitter app:** https://github.com/oskarko/TwitterTutorial
+#### Full apps:
+  - **The twitter app:** https://github.com/oskarko/TwitterTutorial
   - **The movies app:** https://github.com/oskarko/TheMoviesApp
   
-Tech tests:
+  
+#### Technical tests:
   - **Grupo Hasten:** https://github.com/oskarko/RxRGH
   - **SDOS:** https://github.com/oskarko/SDOSRepo
   - **Elitech Lab:** https://github.com/oskarko/pruebaElitechLab (*deprecated!*)
@@ -13,12 +14,14 @@ Tech tests:
   - **AtSistemas:** https://github.com/oskarko/pruebaAtSistemas (*deprecated!*)
   - **Batura Mobile:** https://github.com/oskarko/pruebaBaturaMobile (*deprecated!*)
   
- Other stuff:
+  
+ #### Other stuff:
   - **RxRestaurant:** https://github.com/oskarko/RxRestaurantsList
   - **RxLoginValidator:** https://github.com/oskarko/RxLoginValidation
   - **ShareExtensions:** https://github.com/oskarko/ShareExtensionExample
   
-  My blog:
+  
+  #### My personal blog:
   - **https://www.oscargarrucho.com:** https://github.com/oskarko/oskarko.github.io
  
 <!--
