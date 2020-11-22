@@ -1,28 +1,28 @@
 ### Hi there 👋
 
 #### Full apps:
-  - **The twitter app:** https://github.com/oskarko/TwitterTutorial
-  - **The movies app:** https://github.com/oskarko/TheMoviesApp
+  - [**The twitter (clone) app**](https://github.com/oskarko/TwitterTutorial)
+  - [**The movies app**](https://github.com/oskarko/TheMoviesApp)
   
   
 #### Technical tests:
-  - **Grupo Hasten:** https://github.com/oskarko/RxRGH
-  - **SDOS:** https://github.com/oskarko/SDOSRepo
-  - **Elitech Lab:** https://github.com/oskarko/pruebaElitechLab (*deprecated!*)
-  - **InnoCV:** https://github.com/oskarko/pruebaInnoCV (*deprecated!*)
-  - **Blesson 3:** https://github.com/oskarko/pruebaBlesson3 (*deprecated!*)
-  - **AtSistemas:** https://github.com/oskarko/pruebaAtSistemas (*deprecated!*)
-  - **Batura Mobile:** https://github.com/oskarko/pruebaBaturaMobile (*deprecated!*)
+  - [**Grupo Hasten**](https://github.com/oskarko/RxRGH)
+  - [**SDOS**](https://github.com/oskarko/SDOSRepo)
+  - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
+  - [**InnoCV**](https://github.com/oskarko/pruebaInnoCV) (*deprecated!*)
+  - [**Blesson 3**](https://github.com/oskarko/pruebaBlesson3) (*deprecated!*)
+  - [**AtSistemas**](https://github.com/oskarko/pruebaAtSistemas) (*deprecated!*)
+  - [**Batura Mobile**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
   
   
  #### Other stuff:
-  - **RxRestaurant:** https://github.com/oskarko/RxRestaurantsList
-  - **RxLoginValidator:** https://github.com/oskarko/RxLoginValidation
-  - **ShareExtensions:** https://github.com/oskarko/ShareExtensionExample
+  - [**RxRestaurant**](https://github.com/oskarko/RxRestaurantsList)
+  - [**RxLoginValidator**](https://github.com/oskarko/RxLoginValidation)
+  - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample)
 
 
 #### iOS games:
-  - **Jack, The giant:** https://github.com/oskarko/JackTheGiantGame
+  - [**Jack, The giant**](https://github.com/oskarko/JackTheGiantGame)
   
   
   #### My personal blog:
