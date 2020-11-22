@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 #### Full apps:
-  - [**The twitter (clone) app**](https://github.com/oskarko/TwitterTutorial)
-  - [**The movies app**](https://github.com/oskarko/TheMoviesApp)
+  - [**The twitter (clone) app:**](https://github.com/oskarko/TwitterTutorial) Swift5 + MVVM pattern + Firebase + NO Storyboards
+  - [**The movies app:**](https://github.com/oskarko/TheMoviesApp) RxSwift + MVVM pattern + Coordinators
   
   
 #### Technical tests:
-  - [**Grupo Hasten**](https://github.com/oskarko/RxRGH)
-  - [**SDOS**](https://github.com/oskarko/SDOSRepo)
+  - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
+  - [**SDOS:**](https://github.com/oskarko/SDOSRepo) SwiftUI + MVVM pattern
   - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
   - [**InnoCV**](https://github.com/oskarko/pruebaInnoCV) (*deprecated!*)
   - [**Blesson 3**](https://github.com/oskarko/pruebaBlesson3) (*deprecated!*)
@@ -16,17 +16,20 @@
   
   
  #### Other stuff:
-  - [**RxRestaurant**](https://github.com/oskarko/RxRestaurantsList)
-  - [**RxLoginValidator**](https://github.com/oskarko/RxLoginValidation)
-  - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample)
+  - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
+  - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
+  - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 
 #### iOS games:
-  - [**Jack, The giant**](https://github.com/oskarko/JackTheGiantGame)
+  - [**Jack, The giant:**](https://github.com/oskarko/JackTheGiantGame) SpriteKit
   
   
   #### My personal blog:
   - **https://www.oscargarrucho.com:** https://github.com/oskarko/oskarko.github.io
+  
+  #### My side project:
+  - **http://littlemonster.es:** Do you need to hire an iOS contractor? Let's talk!
  
 <!--
 **oskarko/oskarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
