@@ -19,6 +19,10 @@
   - **RxRestaurant:** https://github.com/oskarko/RxRestaurantsList
   - **RxLoginValidator:** https://github.com/oskarko/RxLoginValidation
   - **ShareExtensions:** https://github.com/oskarko/ShareExtensionExample
+
+
+#### iOS games:
+  - **Jack, The giant:** https://github.com/oskarko/JackTheGiantGame
   
   
   #### My personal blog:
