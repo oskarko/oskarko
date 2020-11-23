@@ -16,6 +16,7 @@
   
   
  #### Other stuff:
+  - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift5
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
   - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
