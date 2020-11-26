@@ -3,6 +3,7 @@
 #### Full apps:
   - [**The twitter (clone) app:**](https://github.com/oskarko/TwitterTutorial) Swift5 + MVVM pattern + Firebase + NO Storyboards
   - [**The movies app:**](https://github.com/oskarko/TheMoviesApp) RxSwift + MVVM pattern + Coordinators
+  - [**Chat app:**](https://github.com/oskarko/FireChat) Swift5 + MVVM pattern + Firestore + NO Storyboards
   
   
 #### Technical tests:
