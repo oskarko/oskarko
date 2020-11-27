@@ -1,25 +1,24 @@
 ### Hi there 👋
 
 #### Full apps:
-  - [**The twitter (clone) app:**](https://github.com/oskarko/TwitterTutorial) Swift5 + MVVM pattern + Firebase + NO Storyboards
+  - [**The twitter (clone) app:**](https://github.com/oskarko/TwitterTutorial) Swift 5 + MVVM pattern + Firebase + NO Storyboards
   - [**The movies app:**](https://github.com/oskarko/TheMoviesApp) RxSwift + MVVM pattern + Coordinators
-  - [**Chat app:**](https://github.com/oskarko/FireChat) Swift5 + MVVM pattern + Firestore + NO Storyboards
+  - [**Chat app:**](https://github.com/oskarko/FireChat) Swift 5 + MVVM pattern + Firestore + NO Storyboards
   
   
 #### Technical tests:
   - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
   - [**SDOS:**](https://github.com/oskarko/SDOSRepo) SwiftUI + MVVM pattern
   - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
-  - [**InnoCV**](https://github.com/oskarko/pruebaInnoCV) (*deprecated!*)
-  - [**Blesson 3**](https://github.com/oskarko/pruebaBlesson3) (*deprecated!*)
   - [**AtSistemas**](https://github.com/oskarko/pruebaAtSistemas) (*deprecated!*)
   - [**Batura Mobile**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
   
   
  #### Other stuff:
-  - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift5
+  - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
+  - [**SearchBar:**](https://github.com/oskarko/SearchBar/) Swift 5 + iOS 14 + No Storyboards
   - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 
