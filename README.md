@@ -19,6 +19,7 @@
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
   - [**SearchBar:**](https://github.com/oskarko/SearchBar/) Swift 5 + iOS 14 + No Storyboards
+  - [**Side Menu:**](https://github.com/oskarko/SideMenu) Swift 5 + iOS 14 + No Storyboards
   - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 
