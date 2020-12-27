@@ -7,6 +7,7 @@
   
   
 #### Technical tests:
+  - [**Tacter App:**](https://github.com/oskarko/TacterApp) Swift 5 + MVVM pattern + CoreData + NO Storyboards
   - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
   - [**SDOS:**](https://github.com/oskarko/SDOSRepo) SwiftUI + MVVM pattern
   - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
