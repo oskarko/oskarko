@@ -19,6 +19,7 @@
  #### Other stuff:
   - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 2.0 + iOS 14 + Swift 5
   - [**TouchDown**](https://github.com/oskarko/Touchdown/) SwiftUI 2.0 + iOS 14 + Swift 5
+  - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 2.0 + Core Data + WidgetKit + iOS 14 + Swift 5
   - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
