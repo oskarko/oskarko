@@ -4,7 +4,7 @@
   - [**The twitter (clone) app:**](https://github.com/oskarko/TwitterTutorial) Swift 5 + MVVM pattern + Firebase + NO Storyboards
   - [**The movies app:**](https://github.com/oskarko/TheMoviesApp) RxSwift + MVVM pattern + Coordinators
   - [**Chat app:**](https://github.com/oskarko/FireChat) Swift 5 + MVVM pattern + Firestore + NO Storyboards
-  - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 2 + iOS 14 + Mac Catalyst 
+  - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
   
 #### Technical tests:
@@ -17,9 +17,10 @@
   
   
  #### Other stuff:
-  - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 2.0 + iOS 14 + Swift 5
-  - [**TouchDown**](https://github.com/oskarko/Touchdown/) SwiftUI 2.0 + iOS 14 + Swift 5
-  - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 2.0 + Core Data + WidgetKit + iOS 14 + Swift 5
+  - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
+  - [**TouchDown**](https://github.com/oskarko/Touchdown/) SwiftUI 3.0 + iOS 15 + Swift 5
+  - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
+  - [**Notes**](https://github.com/oskarko/Notes) SwiftUI 3.0 + iOS 15 + Swift 5 (**Apple Watch extension** 👾)
   - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
