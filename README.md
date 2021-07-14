@@ -26,6 +26,7 @@
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
   - [**SearchBar:**](https://github.com/oskarko/SearchBar/) Swift 5 + iOS 14 + No Storyboards
   - [**Side Menu:**](https://github.com/oskarko/SideMenu) Swift 5 + iOS 14 + No Storyboards
+  - [**Custom TabBar:**](https://github.com/oskarko/CustomTabBar) SwiftUI 3.0 + iOS 14
   - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 
