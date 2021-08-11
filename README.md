@@ -6,7 +6,6 @@
   - [**Chat app:**](https://github.com/oskarko/FireChat) Swift 5 + MVVM pattern + Firestore + NO Storyboards
   - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
-  
 #### Technical tests:
   - [**Tacter App:**](https://github.com/oskarko/TacterApp) Swift 5 + MVVM pattern + CoreData + NO Storyboards
   - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
@@ -14,7 +13,6 @@
   - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
   - [**AtSistemas**](https://github.com/oskarko/pruebaAtSistemas) (*deprecated!*)
   - [**Batura Mobile**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
-  
   
  #### Other stuff:
   - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
@@ -30,10 +28,12 @@
   - [**Settings View:**](https://github.com/oskarko/CustomSettingsView)  SwiftUI 3.0 + iOS 15
   - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
-
 #### iOS games:
   - [**Jack, The giant:**](https://github.com/oskarko/JackTheGiantGame) SpriteKit
-  
+
+
+#### Custom templates:
+  - [**MVVM + Router:**](https://github.com/oskarko/MVVMRouter-Template)
   
   #### My personal blog:
   - **https://www.oscargarrucho.com:** https://github.com/oskarko/oskarko.github.io
