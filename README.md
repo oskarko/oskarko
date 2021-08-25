@@ -20,6 +20,7 @@
   - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
   - [**Notes**](https://github.com/oskarko/Notes) SwiftUI 3.0 + iOS 15 + Swift 5 (**Apple Watch extension** 👾)
   - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
+  - [**AuthenticationUI:**](https://github.com/oskarko/AuthenticationUI/) SwiftUI 3.0 + iOS 15 + Swift 5 + Firebase
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
   - [**RxLoginValidator:**](https://github.com/oskarko/RxLoginValidation) RxSwift + MVVM pattern
   - [**SearchBar:**](https://github.com/oskarko/SearchBar/) Swift 5 + iOS 14 + No Storyboards
