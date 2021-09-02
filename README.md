@@ -19,6 +19,7 @@
   - [**TouchDown**](https://github.com/oskarko/Touchdown/) SwiftUI 3.0 + iOS 15 + Swift 5
   - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
   - [**Notes**](https://github.com/oskarko/Notes) SwiftUI 3.0 + iOS 15 + Swift 5 (**Apple Watch extension** 👾)
+  - [**Increment**](https://github.com/oskarko/Increment) SwiftUI 3.0 + + MVVM pattern + Firebase/Firestore
   - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
   - [**AuthenticationUI:**](https://github.com/oskarko/AuthenticationUI/) SwiftUI 3.0 + iOS 15 + Swift 5 + Firebase
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
