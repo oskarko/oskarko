@@ -7,12 +7,13 @@
   - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
 #### Technical tests:
+  - [**PLUM:**](https://github.com/oskarko/MARVEL-Heroes) Swift 5 + MVVM pattern + Coordinators + SQL database + Unit tests
   - [**Tacter App:**](https://github.com/oskarko/TacterApp) Swift 5 + MVVM pattern + CoreData + NO Storyboards
   - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
   - [**SDOS:**](https://github.com/oskarko/SDOSRepo) SwiftUI + MVVM pattern
-  - [**Elitech Lab**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
-  - [**AtSistemas**](https://github.com/oskarko/pruebaAtSistemas) (*deprecated!*)
-  - [**Batura Mobile**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
+  - [**Elitech Lab:**](https://github.com/oskarko/pruebaElitechLab) (*deprecated!*)
+  - [**AtSistemas:**](https://github.com/oskarko/pruebaAtSistemas) (*deprecated!*)
+  - [**Batura Mobile:**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
   
  #### Other stuff:
   - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
