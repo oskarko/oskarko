@@ -40,10 +40,10 @@
   - [**MVVM + Router:**](https://github.com/oskarko/MVVMRouter-Template)
   
   #### My personal blog:
-  - **https://www.oscargarrucho.com:** https://github.com/oskarko/oskarko.github.io
+  - [**https://www.oscargarrucho.com:**](https://github.com/oskarko/oskarko.github.io)
   
   #### My side project:
-  - **http://littlemonster.es:** Do you need to hire an iOS contractor? Let's talk!
+  - [**http://littlemonster.es:**](http://littlemonster.es) (*deprecated!*)
  
 <!--
 **oskarko/oskarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
