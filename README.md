@@ -17,11 +17,11 @@
   - [**Batura Mobile:**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
   
  #### Other stuff:
-  - [**Fructus**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
-  - [**TouchDown**](https://github.com/oskarko/Touchdown/) SwiftUI 3.0 + iOS 15 + Swift 5
-  - [**Devote**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
-  - [**Notes**](https://github.com/oskarko/Notes) SwiftUI 3.0 + iOS 15 + Swift 5 (**Apple Watch extension** 👾)
-  - [**Increment**](https://github.com/oskarko/Increment) SwiftUI 3.0 + + MVVM pattern + Firebase/Firestore
+  - [**Fructus:**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
+  - [**TouchDown:**](https://github.com/oskarko/Touchdown/) SwiftUI 3.0 + iOS 15 + Swift 5
+  - [**Devote:**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
+  - [**Notes:**](https://github.com/oskarko/Notes) SwiftUI 3.0 + iOS 15 + Swift 5 (**Apple Watch extension** 👾)
+  - [**Increment:**](https://github.com/oskarko/Increment) SwiftUI 3.0 + + MVVM pattern + Firebase/Firestore
   - [**Pokedex:**](https://github.com/oskarko/Pokedex) SwiftUI + MVVM pattern + Network Layer + Swift 5
   - [**AuthenticationUI:**](https://github.com/oskarko/AuthenticationUI/) SwiftUI 3.0 + iOS 15 + Swift 5 + Firebase
   - [**RxRestaurant:**](https://github.com/oskarko/RxRestaurantsList) RxSwift + MVVM pattern + Coordinators
@@ -30,20 +30,20 @@
   - [**Side Menu:**](https://github.com/oskarko/SideMenu) Swift 5 + iOS 14 + No Storyboards
   - [**Custom TabBar:**](https://github.com/oskarko/CustomTabBar) SwiftUI 3.0 + iOS 15
   - [**Settings View:**](https://github.com/oskarko/CustomSettingsView)  SwiftUI 3.0 + iOS 15
-  - [**ShareExtensions**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
+  - [**ShareExtensions:**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 #### iOS games:
   - [**Jack, The giant:**](https://github.com/oskarko/JackTheGiantGame) SpriteKit
 
 
 #### Custom templates:
-  - [**MVVM + Router:**](https://github.com/oskarko/MVVMRouter-Template)
+  - [**MVVM + Router**](https://github.com/oskarko/MVVMRouter-Template)
   
   #### My personal blog:
-  - [**https://www.oscargarrucho.com:**](https://github.com/oskarko/oskarko.github.io)
+  - [**https://www.oscargarrucho.com**](https://github.com/oskarko/oskarko.github.io)
   
   #### My side project:
-  - [**http://littlemonster.es:**](http://littlemonster.es) (*deprecated!*)
+  - [**http://littlemonster.es**](http://littlemonster.es) (*deprecated!*)
  
 <!--
 **oskarko/oskarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
