@@ -8,7 +8,7 @@
   
 #### Technical tests:
   - [**Unisys:**](https://github.com/oskarko/Unisys) Swift 5 + MVVM pattern + Coordinators + CoreData + Unit tests
-  - [**PLUM:**](https://github.com/oskarko/MARVEL-Heroes) Swift 5 + MVVM pattern + Coordinators + SQL database + Unit tests
+  - [**PLUM / Plexus:**](https://github.com/oskarko/MARVEL-Heroes) Swift 5 + MVVM pattern + Coordinators + SQL database + Unit tests
   - [**Tacter App:**](https://github.com/oskarko/TacterApp) Swift 5 + MVVM pattern + CoreData + NO Storyboards
   - [**Grupo Hasten:**](https://github.com/oskarko/RxRGH) RxSwift + MVVM pattern + Coordinators
   - [**SDOS:**](https://github.com/oskarko/SDOSRepo) SwiftUI + MVVM pattern
