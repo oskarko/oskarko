@@ -31,6 +31,7 @@
   - [**Side Menu:**](https://github.com/oskarko/SideMenu) Swift 5 + iOS 14 + No Storyboards
   - [**Custom TabBar:**](https://github.com/oskarko/CustomTabBar) SwiftUI 3.0 + iOS 15
   - [**Settings View:**](https://github.com/oskarko/CustomSettingsView)  SwiftUI 3.0 + iOS 15
+  - [**SnapCarousel:**](https://github.com/oskarko/SnapCarousel) SwiftUI 3.0 + iOS 15
   - [**ShareExtensions:**](https://github.com/oskarko/ShareExtensionExample) (*deprecated!*)
 
 #### iOS games:
