@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Óscar, an iOS software engineer
 
 #### My own libraries:
   - [**DinoNetworking:**](https://github.com/oskarko/DinoNetworking) A tiny network layer to manage your API calls 
@@ -45,11 +45,25 @@
 #### Custom templates:
   - [**MVVM + Router**](https://github.com/oskarko/MVVMRouter-Template)
   
-  #### My personal blog:
+#### My personal blog:
   - [**https://www.oscargarrucho.com**](https://github.com/oskarko/oskarko.github.io)
   
-  #### My side project:
+#### My side project:
   - [**http://littlemonster.es**](http://littlemonster.es) (*deprecated!*)
+  
+### Connect With Me:
+
+<p left="center">
+<a href="https://twitter.com/oscarGarrucho" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/oscar-garrucho/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://stackoverflow.com/users/3071346/oskarko" target="_blank">
+<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=3071346" />
+</a>
+</p>
  
 <!--
 **oskarko/oskarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
