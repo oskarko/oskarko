@@ -10,6 +10,7 @@
   - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
 #### Technical tests:
+  - [**Sytac:**](https://github.com/oskarko/Sytac) SwiftUI + MVVM pattern + Combine
   - [**SNGULAR:**](https://github.com/oskarko/SngularTechTest) Swift 5 + VIPER pattern + Unit tests
   - [**Unisys:**](https://github.com/oskarko/Unisys) Swift 5 + MVVM pattern + Coordinators + CoreData + Unit tests
   - [**PLUM / Plexus:**](https://github.com/oskarko/MARVEL-Heroes) Swift 5 + MVVM pattern + Coordinators + SQL database + Unit tests
