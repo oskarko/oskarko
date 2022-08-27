@@ -22,6 +22,7 @@
   - [**Batura Mobile:**](https://github.com/oskarko/pruebaBaturaMobile) (*deprecated!*)
   
  #### Other stuff:
+  - [**Lottie:**](https://github.com/oskarko/LottieExample/) Swift 5 + iOS 15 + Lottie-ios
   - [**Fructus:**](https://github.com/oskarko/Fructus/) SwiftUI 3.0 + iOS 15 + Swift 5
   - [**TouchDown:**](https://github.com/oskarko/Touchdown/) SwiftUI 3.0 + iOS 15 + Swift 5
   - [**Devote:**](https://github.com/oskarko/Devote/) SwiftUI 3.0 + Core Data + WidgetKit + iOS 15 + Swift 5
