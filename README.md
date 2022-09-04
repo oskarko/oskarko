@@ -44,8 +44,8 @@
 
 
 #### Custom templates:
-  - [**MVVM + Route:r**](https://github.com/oskarko/MVVMRouter-Template)
-  - [**Custom UIView:**](https://github.com/oskarko/CustomUIView-Template)
+  - [**MVVM + Router**](https://github.com/oskarko/MVVMRouter-Template)
+  - [**Custom UIView**](https://github.com/oskarko/CustomUIView-Template)
   
 #### My personal blog:
   - [**https://www.oscargarrucho.com**](https://github.com/oskarko/oskarko.github.io)
