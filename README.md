@@ -45,7 +45,8 @@
 
 
 #### Custom templates:
-  - [**MVVM + Router**](https://github.com/oskarko/MVVMRouter-Template)
+  - [**VIP pattern (Clean Swift)**](https://github.com/oskarko/VIP-Template)
+  - [**MVVM pattern + Router**](https://github.com/oskarko/MVVMRouter-Template)
   - [**Custom UIView**](https://github.com/oskarko/CustomUIView-Template)
   
 #### My personal blog:
