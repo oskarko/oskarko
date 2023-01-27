@@ -11,6 +11,7 @@
   
 #### Technical tests:
   - [**Inditex:**](https://github.com/oskarko/Inditex) Swift 5 + VIP pattern (a.k.a. Clean Swift) + Unit Tests
+  - [**BeMobile:**](https://github.com/oskarko/Bemobile) Swift 5 + MVVM pattern
   - [**Sytac:**](https://github.com/oskarko/Sytac) SwiftUI + MVVM pattern + Combine
   - [**SNGULAR:**](https://github.com/oskarko/SngularTechTest) Swift 5 + VIPER pattern + Unit tests
   - [**Unisys:**](https://github.com/oskarko/Unisys) Swift 5 + MVVM pattern + Coordinators + CoreData + Unit tests
