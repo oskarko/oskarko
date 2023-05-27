@@ -10,6 +10,7 @@
   - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
 #### Technical tests:
+  - [**MySugr:**](https://github.com/oskarko/mySugr) SwiftUI + MVVM pattern
   - [**Inditex:**](https://github.com/oskarko/Inditex) Swift 5 + VIP pattern (a.k.a. Clean Swift) + Unit Tests
   - [**BeMobile:**](https://github.com/oskarko/Bemobile) Swift 5 + MVVM pattern
   - [**Sytac:**](https://github.com/oskarko/Sytac) SwiftUI + MVVM pattern + Combine
