@@ -10,6 +10,7 @@
   - [**Africa:**](https://github.com/oskarko/Africa) Swift 5 + SwiftUI 3 + iOS 15 + Mac Catalyst 
   
 #### Technical tests:
+  - [**Bring Global:**](https://github.com/oskarko/BringGlobal) Swift 5 + MVVM pattern + Coordinators + Unit tests
   - [**TUI:**](https://github.com/oskarko/TUIGroup/tree/develop) SwiftUI + MVVM pattern + Unit tests + UI Tests
   - [**MySugr:**](https://github.com/oskarko/mySugr) SwiftUI + MVVM pattern
   - [**One2One:**](https://github.com/oskarko/O2O) Swift 5 + MVVM pattern + Coordinators + Unit tests
