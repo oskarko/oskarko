@@ -11,6 +11,7 @@
   
 #### Technical tests:
   - [**Agile Content:**](https://github.com/oskarko/AgileContent) Swift 5 + MVVM pattern + Coordinators + Unit tests
+  - [**Agile Content:**](https://github.com/oskarko/AgileContentUI) SwiftUI + MVVM pattern
   - [**Bring Global:**](https://github.com/oskarko/BringGlobal) Swift 5 + MVVM pattern + Coordinators + Unit tests
   - [**TUI:**](https://github.com/oskarko/TUIGroup/tree/develop) SwiftUI + MVVM pattern + Unit tests + UI Tests
   - [**MySugr:**](https://github.com/oskarko/mySugr) SwiftUI + MVVM pattern
