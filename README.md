@@ -1,5 +1,57 @@
 ### Hi there 👋, I'm Óscar, an iOS software engineer
 
+#### 🤖 Built with AI: Claude Code + REA
+
+> These projects were built with [**Claude Code**](https://claude.com/claude-code) (Anthropic's coding agent) and the [**REA**](https://github.com/morluto/rea) reverse-engineering skill by [@morluto](https://github.com/morluto), used to study how existing apps and websites work before rebuilding from scratch. Design, direction and review: me. All three are clean-room work and contain no third-party proprietary code.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[♟️ ChessTheory Analyzer](https://github.com/oskarko/ChessTheoryExtension)**
+
+Chrome extension for chess.com: local Stockfish 18 analysis in the side panel, with best moves, engine lines, board arrows, move grades and game accuracy.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Stockfish](https://img.shields.io/badge/Stockfish-18-555?style=flat-square)
+![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
+
+> ⚠️ **For study and training only.** Engine help in games against people breaks chess.com's [Fair Play Policy](https://www.chess.com/legal/fair-play) and gets accounts banned.
+
+</td>
+<td width="33%" valign="top">
+
+**[🔍 Proxio](https://github.com/oskarko/Proxio)**
+
+Native macOS HTTP/HTTPS debugging proxy: capture, HTTPS interception, breakpoints, Map Local, scripting, WebSocket, gRPC and HTTP/2, HAR export.
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+> ⚠️ Only intercept traffic you are authorised to inspect. Trusting its root CA lets anyone holding the key impersonate websites to that device.
+
+</td>
+<td width="33%" valign="top">
+
+**[🛡️ AdBye](https://github.com/oskarko/Adbye)**
+
+Free, open-source ad blocker for Chrome, Edge, Brave and Firefox. Every "premium" feature included, with no accounts, licences or servers.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
+
+> ℹ️ Independent implementation, not affiliated with AdBlock, eyeo or Adblock Plus.
+
+</td>
+</tr>
+</table>
+
+![Built with Claude Code](https://img.shields.io/badge/built%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Research with REA](https://img.shields.io/badge/research-REA-6E40C9?style=for-the-badge)
+
 #### My own libraries:
   - [**DinoNetworking:**](https://github.com/oskarko/DinoNetworking) A tiny network layer to manage your API calls 
 
