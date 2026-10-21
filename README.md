@@ -2,11 +2,11 @@
 
 #### 🤖 Built with AI: Claude Code + REA
 
-> These projects were built with [**Claude Code**](https://claude.com/claude-code) (Anthropic's coding agent) and the [**REA**](https://github.com/morluto/rea) reverse-engineering skill by [@morluto](https://github.com/morluto), used to study how existing apps and websites work before rebuilding from scratch. Design, direction and review: me. All three are clean-room work and contain no third-party proprietary code.
+> These projects were built with [**Claude Code**](https://claude.com/claude-code) (Anthropic's coding agent) and the [**REA**](https://github.com/morluto/rea) reverse-engineering skill by [@morluto](https://github.com/morluto), used to study how existing apps and websites work before rebuilding from scratch. Design, direction and review: me. Everything is clean-room work and contains no third-party proprietary code.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[♟️ ChessTheory Analyzer](https://github.com/oskarko/ChessTheoryExtension)**
 
@@ -20,7 +20,7 @@ Chrome extension for chess.com: local Stockfish 18 analysis in the side panel, w
 > ⚠️ **For study and training only.** Engine help in games against people breaks chess.com's [Fair Play Policy](https://www.chess.com/legal/fair-play) and gets accounts banned.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[🔍 Proxio](https://github.com/oskarko/Proxio)**
 
@@ -33,7 +33,9 @@ Native macOS HTTP/HTTPS debugging proxy: capture, HTTPS interception, breakpoint
 > ⚠️ Only intercept traffic you are authorised to inspect. Trusting its root CA lets anyone holding the key impersonate websites to that device.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[🛡️ AdBye](https://github.com/oskarko/Adbye)**
 
@@ -44,6 +46,20 @@ Free, open-source ad blocker for Chrome, Edge, Brave and Firefox. Every "premium
 ![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
 
 > ℹ️ Independent implementation, not affiliated with AdBlock, eyeo or Adblock Plus.
+
+</td>
+<td width="50%" valign="top">
+
+**[👾 Mario vs. the Word Monsters](https://github.com/oskarko/mario-vs-word-monsters)**
+
+iPhone & iPad app I made for my son to learn to write English (Cambridge Movers A1): monsters made of his own mistakes, spaced repetition, speech recognition. No ads, no tracking.
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS%20%26%20iPadOS-000000?style=flat-square&logo=apple&logoColor=white)
+![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
+
+> ℹ️ Content follows the public Cambridge Movers syllabus; not affiliated with Cambridge.
 
 </td>
 </tr>
